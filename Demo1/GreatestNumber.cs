@@ -6,18 +6,18 @@ namespace Demo1
     {
         public static void Main(string[] args)
         {
-            int a, b;
+            int A, B;
             Console.WriteLine("Enter the value for a");
-            a = Convert.ToInt32(Console.ReadLine());
+            A = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the value for b");
-            b = Convert.ToInt32(Console.ReadLine());
-            if(a>b)
+            B = Convert.ToInt32(Console.ReadLine());
+            if(A>B)
             {
-                Console.WriteLine("It is the greatest number");
+                Console.WriteLine("A is the greatest number");
             }
             else
             {
-                Console.WriteLine("It is not the greatest number");
+                Console.WriteLine("B is not the greatest number");
             }
         }
     }
