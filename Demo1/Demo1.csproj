@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>Demo1.SumWithVariable</StartupObject>
+    <StartupObject>Demo1.DataType</StartupObject>
     <ApplicationIcon />
   </PropertyGroup>
 
