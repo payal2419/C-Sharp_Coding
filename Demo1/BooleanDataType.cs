@@ -11,7 +11,7 @@ namespace Demo1
             bool yay = true;
             bool nay = false;
             Console.WriteLine("Yay means Yes " + yay);
-            Console.WriteLine("Nay means Yes " + nay);
+            Console.WriteLine("Nay means No " + nay);
             Console.ReadLine();
         }
     }
